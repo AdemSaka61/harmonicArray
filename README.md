@@ -1,0 +1,2 @@
+# harmonicArray
+harmonik seri ortalamasi
